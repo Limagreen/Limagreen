@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Limagreen
 - 👀 I’m interested in both front and backend development.
 - 🌱 I’m currently learning advanced JS and React.
-- 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me ...
 
 <!---
